@@ -1,4 +1,7 @@
- <?php
+<!DOCTYPE html>
+<html>
+<body> 
+<?php
          $to = "lplovepreetparmar@gmail.com";
          $subject = "Query From LP";
          
@@ -21,3 +24,5 @@
             echo "Message could not be sent...";
          }
       ?>
+ </body>
+</html>
